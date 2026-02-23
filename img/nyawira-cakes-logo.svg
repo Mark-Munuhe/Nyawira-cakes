@@ -1,0 +1,48 @@
+<svg viewBox="0 0 200 220" width="200" height="220" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Stand plate -->
+  <ellipse cx="100" cy="205" rx="75" ry="10" fill="#2E86AB" opacity="0.6"/>
+  <rect x="85" y="190" width="30" height="18" rx="5" fill="#2E86AB" opacity="0.7"/>
+  <ellipse cx="100" cy="192" rx="58" ry="9" fill="#2E86AB" opacity="0.85"/>
+
+  <!-- Bottom layer -->
+  <rect x="18" y="140" width="164" height="50" rx="10" fill="#5C3317"/>
+  <rect x="18" y="140" width="164" height="8" rx="5" fill="#7A4522"/>
+
+  <!-- Middle layer -->
+  <rect x="33" y="93" width="134" height="50" rx="10" fill="#7A4522"/>
+  <rect x="33" y="93" width="134" height="7" rx="4" fill="#8B5E3C"/>
+
+  <!-- Top layer -->
+  <rect x="53" y="53" width="94" height="42" rx="10" fill="#8B5E3C"/>
+
+  <!-- Top frosting blob -->
+  <ellipse cx="100" cy="54" rx="47" ry="12" fill="#FDF8F2"/>
+  <path d="M62 46 Q69 30 76 46 Q83 28 90 44 Q97 26 100 44 Q103 26 110 44 Q117 28 124 46 Q131 30 138 46"
+    stroke="#FDF8F2" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Orange drip on bottom layer -->
+  <path d="M28 148 Q40 160 54 148 Q68 160 82 148 Q96 160 100 148 Q104 160 118 148 Q132 160 146 148 Q160 160 172 148"
+    stroke="#E87722" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Decoration dots bottom layer -->
+  <circle cx="55" cy="168" r="6" fill="#E87722" opacity="0.85"/>
+  <circle cx="100" cy="166" r="6" fill="#E87722" opacity="0.85"/>
+  <circle cx="145" cy="168" r="6" fill="#E87722" opacity="0.85"/>
+
+  <!-- Decoration dots middle layer -->
+  <circle cx="62" cy="120" r="5" fill="#2E86AB" opacity="0.8"/>
+  <circle cx="100" cy="118" r="5" fill="#2E86AB" opacity="0.8"/>
+  <circle cx="138" cy="120" r="5" fill="#2E86AB" opacity="0.8"/>
+
+  <!-- Candle -->
+  <rect x="95" y="22" width="10" height="34" rx="5" fill="#2E86AB"/>
+
+  <!-- Flame glow -->
+  <ellipse cx="100" cy="20" rx="8" ry="10" fill="#F5A04A" opacity="0.4"/>
+
+  <!-- Flame -->
+  <path d="M100 22 Q107 12 100 4 Q93 12 100 22" fill="#E87722"/>
+  <path d="M100 20 Q104 14 100 8 Q96 14 100 20" fill="#F5A04A"/>
+
+</svg>
