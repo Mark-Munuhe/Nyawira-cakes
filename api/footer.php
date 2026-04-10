@@ -1,3 +1,3 @@
-<script src="nyawira.js"></script>
+<script src="/nyawira.js"></script>
   </body>
 </html>

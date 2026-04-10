@@ -128,7 +128,7 @@
       <div class="menu-grid">
         <div class="menu-card reveal">
           <img
-            src="img/wedding.jpeg"
+            src="/img/wedding.jpeg"
             alt="Wedding Cake"
             class="menu-card-img"
             loading="lazy"
@@ -146,7 +146,7 @@
 
         <div class="menu-card reveal">
           <img
-            src="img/birthday.jpeg"
+            src="/img/birthday.jpeg"
             alt="Birthday cake"
             title="Birthday cake"
             loading="lazy"
@@ -163,7 +163,7 @@
         </div>
         <div class="menu-card reveal">
           <img
-            src="img/graduation.jpeg"
+            src="/img/graduation.jpeg"
             alt="Graduation Cakes"
             loading="lazy"
             title="Graduation Cakes"
