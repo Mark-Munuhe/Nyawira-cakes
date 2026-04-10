@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nyawira Cakes</title>
     <link rel="icon" href="img/nyawira-cakes-logo.svg" />
-    <link rel="stylesheet" href="/nyawira.css" />
+    <link rel="stylesheet" href="/Nyawira-cakesnyawira.css" />
     <link rel="" href="" />
   </head>
   <body>
