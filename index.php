@@ -1,4 +1,6 @@
-<?php include 'header.php'; ?>
+  <?php include 'header.php'; ?>
+
+
     <section class="hero">
       <div class="hero-content">
         <div class="hero-badge">Keywest Ruiru</div>
@@ -333,6 +335,5 @@
         </div>
       </div>
     </section>
-    <script src="nyawira.js"></script>
-  </body>
-</html>
+    <?php include 'footer.php'; ?>
+    
